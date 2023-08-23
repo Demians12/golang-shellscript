@@ -1,5 +1,5 @@
 # Go Installation Script
-This script automates the installation or update process of the Go programming language for Linux and macOS systems. It's designed to simplify the setup process for developers, ensuring that the desired version of Go is installed on the system.
+This script automates the installation or update process of the Go programming language for Linux and macOS systems. It's designed to simplify the setup process for developers, ensuring that the desired version (1.21) of Go is installed on the system.
 
 # Features
 - Checks Existing Installation: The script first checks if Go is already installed on the system.
